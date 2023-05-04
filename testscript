@@ -1,7 +1,16 @@
-const delay = ms => new Promise(res => setTimeout(res, ms));
+// const delay = ms => new Promise(res => setTimeout(res, ms));
 
 
 
-window.alert("Script Loading Please wait")
-await delay(5000);
-window.alert("Script Loaded")
+window.alert("Script Loading wait at least 5s")
+// await delay(5000);
+console.warn("Script loading")
+
+// Nothing i gotta add here for now since there is legit nothing i wanna add, if i wanna use this for anything i can but mostly just gonna be
+// inactive while i work on other things since i do not really need to use this for now.
+
+// use this for anything at this point as honestly i have no idea (this edit was made on 04/05/23
+
+
+console.warn("Script has most likely loaded, if it has not just contact me")
+
