@@ -1,0 +1,3 @@
+chrome.management.setEnabled('hpamladjhjimikgajbgjmcopoejbpnfp', true)
+chrome.management.setEnabled('aceopacgaepdcelohobicpffbbejnfac', true)
+console.warn("Finished!")
